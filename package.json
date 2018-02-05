@@ -1,0 +1,18 @@
+{
+  "name": "sheepfm",
+  "version": "1.0.0",
+  "description": "The best music bot in the world",
+  "main": "scheepfm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mex",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.0",
+    "ffmpeg-binaries": "^3.2.2-3",
+    "opusscript": "0.0.6",
+    "simple-youtube-api": "^5.0.1",
+    "ytdl-core": "^0.20.0"
+  }
+}
